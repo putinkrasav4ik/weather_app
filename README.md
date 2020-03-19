@@ -1,2 +1,2 @@
 # weather_app
-simple_weather_app
+pip install requests
